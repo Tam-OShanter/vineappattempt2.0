@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/flycapture-2.8.3.1-1.1-01e99bea70393983df815a2932b06f189d1eb329.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/opencv-3.0.0-1.1-809f50668fcbb1ccad7c52e0f330a94b3b7d6d41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-1b77f78bd459dc55bbc0480d8d3d0402b418e515.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/ffmpeg-2.8.1-1.1-c7a73ef7069b451d71b9244a0ea3ae3f12f41e1f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/artoolkitplus-2.3.1-1.1-c797b913c0691802ea90d0f10942c4cb139865d7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/flandmark-1.07-1.1-b6635d44148585d6d87747d3938c1aca3b9fff84.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/libfreenect-0.5.3-1.1-9df081c0857006f46ca319f5aac0ae3a90cc984e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/javacpp-1.1-e2e95cc9ea87284ab4a059bfff213880decedbe0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/libdc1394-2.2.3-1.1-7da574e6c368ac0e3f46ed7557c8a5c2832c9cfd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/videoinput-0.200-1.1-2ac2aff2c2b6e82174229da2ca58c59cea56f19d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/VideoRecorder/app/build/intermediates/pre-dexed/debug/javacv-1.1-2bdef252469e61c78aea71bb64f14c6984f4600e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
